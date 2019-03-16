@@ -15,6 +15,10 @@ public class User {
         this.bloodGroup = bloodGroup;
     }
 
+    public User() {
+
+    }
+
     public int getId() {
         return id;
     }
